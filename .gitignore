@@ -2,4 +2,4 @@
 !/static-server/parseArgument.js
 /production/
 /node_modules/
-/package-lock.json/
+package-lock.json
